@@ -997,8 +997,9 @@ img {
 	margin-top: 20px;
 }
 
-.comment_like_info p span { 
+.comment_like_info p a { 
     font-weight: 500;
+	color: #000;
 }
 
 .comment_like_info > span {
