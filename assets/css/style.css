@@ -877,8 +877,9 @@ img {
 }
 
 .comments_title h3 {
-	font-size: 20px;
+	font-size: 28px;
 	font-weight: 600;
+	margin-bottom: 6px;
 }
 
 .comments_title {
@@ -918,8 +919,13 @@ img {
 } 
 
 .commnet_main_box {
-	max-width: 600px;
+	max-width: 100%;
 	width: 100%;
+}
+
+.comment_statement {
+	padding: 9px 0;
+	background: #F9F9F9;
 }
 
 .commnets_text a i {
